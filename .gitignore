@@ -25,3 +25,7 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+*.iml
+*.xml
+.DS_Store
+lib/.DS_Store
